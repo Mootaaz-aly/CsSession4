@@ -335,7 +335,7 @@ namespace CsSession4
             /*Write a program that prints an identity matrix using for loop, in other
             words takes a value n from the user and shows the identity table of size n * n.*/
 
-            int n; int.TryParse(Console.ReadLine(), out n);
+            /*int n; int.TryParse(Console.ReadLine(), out n);
 
             for (int i = 0; i < n; ++i) //i is the row
             {
@@ -347,7 +347,7 @@ namespace CsSession4
                         Console.Write("0 ");
                 }
                 Console.WriteLine(); //go to new line, for matrix shape
-            }
+            }*/
 
             #endregion
 
